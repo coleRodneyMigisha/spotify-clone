@@ -3,6 +3,8 @@
 A Spotify-style music streaming web app that plays real, full-length songs.
 Built with plain HTML, CSS and JavaScript, with no framework, build step or backend.
 
+**Live site: <https://colerodneymigisha.github.io/spotify-clone/>**
+
 ## Features
 
 - Trending songs on the home page
